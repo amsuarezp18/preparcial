@@ -1,0 +1,17 @@
+.center {
+    text-align: center;
+}
+
+.center-row {
+    display: flex;
+    justify-content: center;
+    margin : 20px 0 0 20px;
+}
+
+tbody tr:hover{
+    background: aqua;
+}
+
+th:hover{
+    background: yellow;
+}
